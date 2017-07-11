@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Project Wee"
+baseURL = "https:\/\/projectwee.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "ricky.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
